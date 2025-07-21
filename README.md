@@ -7,7 +7,7 @@ Use Terraform to provision infrastructure and Ansible to configure it. Final goa
 - Linux
 - Terraform
 - Ansible
-- AWS (or Local VM if no cloud)
+- AWS 
 
 ## Progress Log:
 - ✅ Day 1: Setup & Reset
